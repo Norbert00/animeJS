@@ -1,3 +1,4 @@
+```javascript
+
 Simple animation in animeJS
 
-```javascript
