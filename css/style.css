@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.row, .share{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.boxes {
+    position: relative;
+    display: inline-block;
+    list-style-type: none;
+    padding: 10px;
+    opacity: 0;
+}
+
+.see {
+    opacity: 1;
+    transition: all .4s ease-out;
+}
+
